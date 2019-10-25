@@ -1,0 +1,15 @@
+{
+  "name": "js-to-ts",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node -r source-map-support/register build"
+  },
+  "dependencies": {
+    "source-map-support": "^0.5.13"
+  },
+  "devDependencies": {
+    "@types/node": "^12.11.7",
+    "typescript": "^3.6.4"
+  }
+}
