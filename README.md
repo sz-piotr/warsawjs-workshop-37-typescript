@@ -50,6 +50,7 @@
   - Enum
   - Type keyword
   - Discriminated unions
+  - Type guards
   - Readonly
   - Abstract classes
   - Function interfaces
