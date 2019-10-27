@@ -3,7 +3,7 @@ console.log('2')
 let x: 1 | 2 | 3 | null = 1 as any;
 if (x != null && x != 2) console.log(x);
 
-enum AnimalType {
+export enum AnimalType {
   DOG = 1,
   CAT,
   MOUSE
