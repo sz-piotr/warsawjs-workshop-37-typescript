@@ -1,1 +1,1 @@
-import './exercise-2'
+import './classes'
