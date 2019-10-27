@@ -1,1 +1,1 @@
-console.log('Hello TypeScript!')
+import './exercise-2'
